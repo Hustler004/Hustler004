@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FNeelam099&psig=AOvVaw1oDxewshOG7XSAr8su5-09&ust=1724914754678000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIilvLKOl4gDFQAAAAAdAAAAABAE)]
+![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
 <h1 align="center">Hi 👋, I'm Agam Agarwal</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <img align="right" alt="Coding" width="400" src = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*um19N_oeTKlmrHMov0O5bA.gif">
