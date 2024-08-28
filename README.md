@@ -1,7 +1,7 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FNeelam099&psig=AOvVaw1oDxewshOG7XSAr8su5-09&ust=1724914754678000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIilvLKOl4gDFQAAAAAdAAAAABAE)]
 <h1 align="center">Hi 👋, I'm Agam Agarwal</h1>
 <h3 align="center">A passionate Web Developer</h3>
-<img align="right" alt="Coding" width="400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw111LcPAXlZA0Ux_92y3psT&ust=1724914880806000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDKx-2Ol4gDFQAAAAAdAAAAABAE.gif](https://miro.medium.com/v2/resize:fit:640/format:webp/1*um19N_oeTKlmrHMov0O5bA.gif">
+<img align="right" alt="Coding" width="400" src = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*um19N_oeTKlmrHMov0O5bA.gif">
 
 - 🔭 I’m currently working on **Natours-app**
 
